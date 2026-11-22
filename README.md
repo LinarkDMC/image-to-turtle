@@ -38,8 +38,8 @@ Turtle can't display an image directly, so both scripts convert the image into s
 ## Installation
 
 ```bash
-git clone https://github.com/<LinarkDMC>/<image-to-turtle>.git
-cd <your-repo>
+git clone https://github.com/LinarkDMC/image-to-turtle.git
+cd image-to-turtle
 
 # Optional but recommended: use a virtual environment
 python3 -m venv venv
